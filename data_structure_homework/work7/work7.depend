@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556615731 source:c:\users\10518\desktop\data structure\work7\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
