@@ -1,0 +1,9 @@
+<launch> 
+  <include file="$(find rplidar_ros)/launch/rplidar_a3.launch" />
+  <include file="$(find base_controller)/launch/base_controller.launch" />
+
+  <!-- node pkg="smartcar" name="dengfeng_detection" type="http_server_type.py" output="screen"/ -->
+  <node pkg="smartcar" name="obstacle_detection" type="obstacle_detection.py" output="screen"/>
+  <node pkg="smartcar" name="rplidar_detection" type="rplidar_detection_new.py" output="screen"/>
+  <node pkg="smartcar" name="velocity_decision" type="velocity_decision_new.py" output="screen"/>
+</launch>
