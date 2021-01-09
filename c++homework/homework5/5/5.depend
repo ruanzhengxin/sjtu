@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1480052332 source:e:\test\five\5\main.cpp
+	"fushu.h"
+
+1480089755 source:e:\test\five\5\fushu.cpp
+	"fushu.h"
+
+1480089790 e:\test\five\5\fushu.h
+	<iostream>
+

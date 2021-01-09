@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1480172261 source:e:\test\five\6\main.cpp
+	"longlongint.h"
+
+1480173588 source:e:\test\five\6\longlongint.cpp
+	"longlongint.h"
+
+1480139076 e:\test\five\6\longlongint.h
+	<iostream>
+	<cstring>
+

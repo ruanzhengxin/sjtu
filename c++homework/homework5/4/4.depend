@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1480228235 source:e:\test\five\4\main.cpp
+	"four.h"
+
+1480221396 e:\test\five\4\four.h
+	<cstring>
+	<iostream>
+
+1480224247 source:e:\test\five\4\show.cpp
+	"four.h"
+
+1480223985 source:e:\test\five\4\addandchange.cpp
+	"four.h"
+
+1480224290 source:e:\test\five\4\search.cpp
+	"four.h"
+
+1480228069 source:e:\test\five\4\sort.cpp
+	"four.h"
+
+1480223985 source:e:\test\five\516021910587\4\addandchange.cpp
+	"four.h"
+
+1480221396 e:\test\five\516021910587\4\four.h
+	<cstring>
+	<iostream>
+
+1480228235 source:e:\test\five\516021910587\4\main.cpp
+	"four.h"
+
+1480224290 source:e:\test\five\516021910587\4\search.cpp
+	"four.h"
+
+1480224247 source:e:\test\five\516021910587\4\show.cpp
+	"four.h"
+
+1480228269 source:e:\test\five\516021910587\4\sort.cpp
+	"four.h"
+
