@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1476540051 source:e:\test\two\6\main.cpp
-	<iostream>
-	<cmath>
-	<ctime>
-	<cstdlib>
-
