@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1482041262 source:e:\test\seven\1\main.cpp
+	"employee.h"
+
+1482041606 e:\test\seven\1\employee.h
+	<iostream>
+	<cstring>
+
