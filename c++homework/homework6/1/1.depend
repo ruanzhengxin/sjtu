@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1480829625 source:e:\test\six\1\main.cpp
+	"account.h"
+
+1480829417 source:e:\test\six\1\account.cpp
+	"account.h"
+
+1480830096 e:\test\six\1\account.h
+	<iostream>
+

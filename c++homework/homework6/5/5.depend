@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1481288641 source:e:\test\six\5\main.cpp
+	"complex.h"
+	"longlongint.h"
+
+1481288009 source:e:\test\six\5\complex.cpp
+	"complex.h"
+
+1481288570 e:\test\six\5\complex.h
+	<iostream>
+	<cstring>
+	"longlongint.h"
+
+1481287790 e:\test\six\5\longlongint.h
+	<iostream>
+	<cstring>
+
+1481299407 source:e:\test\six\5\longlongint.cpp
+	"longlongint.h"
+

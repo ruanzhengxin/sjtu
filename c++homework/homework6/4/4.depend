@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1481281300 source:e:\test\six\4\main.cpp
+	"date.h"
+
+1481283463 e:\test\six\4\date.h
+	<iostream>
+
+1481283998 source:e:\test\six\4\date.cpp
+	"date.h"
+

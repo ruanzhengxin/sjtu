@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1481299345 source:e:\test\six\3\main.cpp
+	"longlongint.h"
+
+1481299316 source:e:\test\six\3\longlongint.cpp
+	"longlongint.h"
+
+1481182342 e:\test\six\3\longlongint.h
+	<iostream>
+	<cstring>
+
